@@ -19,8 +19,15 @@ nav a {
 	font-size: 35px;
 	text-decoration: none;
 	color: black;
-	
+
 }
+
+nav a:hover {
+	color:blue ;
+	text-decoration: underline;
+
+}
+
 #banner {
 	width: 100%;
 }
